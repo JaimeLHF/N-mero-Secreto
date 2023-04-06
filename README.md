@@ -8,10 +8,10 @@ Game desenvolvido no curso da Alura - Javascript: validações e reconhecimento 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **número Secreto**
+| :label: Tecnologias | javascript, html, css
+| :rocket: URL         | [https://url-deploy.com.br](https://secretnumber-two.vercel.app/)
+
 
 
 
